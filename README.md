@@ -8,7 +8,7 @@ Developer | ReactJs - ReactNative - Golang - Flutter (In Progress)
 ## About me 
 
  :video_game: Love | :heart: Programming
-```
+```go
 type Informations struct {
 Name                       string  `json:"Kaique Moreira"`
 Age                        int     `json:"26"`
