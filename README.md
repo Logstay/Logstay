@@ -16,6 +16,7 @@ technologies  string  `json:"Golang, ReactJs, ReactNative"`
 Love          string  `json:"Games, My wife and children"`
 studying      string  `json:"Flutter, TDD, CleanCode"`
 Work          string  ´json:"Heloo Solutions"`
+Degree        string  ´json:"Bachelor of Computer Information Systems | Uniesp (In Progress)"`
 }
 ```
 ## Social media :mailbox_with_no_mail:
