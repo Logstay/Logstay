@@ -5,8 +5,6 @@
 
 Developer | ReactJs - ReactNative - Golang - Flutter (In Progress)
 
-Holberton School Student. :man_technologist:
-
 ## About me 
 
  :video_game: Love | :heart: Programming
