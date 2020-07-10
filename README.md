@@ -10,12 +10,12 @@ Developer | ReactJs - ReactNative - Golang - Flutter (In Progress)
  :video_game: Love | :heart: Programming
 ```go
 type Informations struct {
-Name                       string  `json:"Kaique Moreira"`
-Age                        int     `json:"26"`
-technologies               string  `json:"Golang, ReactJs, ReactNative"`
-Love                       string  `json:"Games, My wife and children"`
-studying                   string  `json:"Flutter, TDD, CleanCode"`
-Work                       string  ´json:"Heloo Solutions"`
+Name            string  `json:"Kaique Moreira"`
+Age             int     `json:"26"`
+technologies    string  `json:"Golang, ReactJs, ReactNative"`
+Love            string  `json:"Games, My wife and children"`
+studying        string  `json:"Flutter, TDD, CleanCode"`
+Work            string  ´json:"Heloo Solutions"`
 }
 ```
 ## Social media :mailbox_with_no_mail:
