@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/3owvKdSecsPWrDDjIQ/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/dXX6XfRIsOWf6/giphy.gif">
 
 
 # Hi, I'm Kaique Moreira :cookie:
@@ -9,15 +9,15 @@ Holberton School Student. :man_technologist:
 
 ## About me 
 
- :video_game: Love | :red_heart: Programming
+ :video_game: Love | :heart: Programming
 ```
-go
 type Informations struct {
 Name                       string  `json:"Kaique Moreira"`
 Age                        int     `json:"26"`
 technologies               string  `json:"Golang, ReactJs, ReactNative"`
 Love                       string  `json:"Games, My wife and children"`
 studying                   string  `json:"Flutter, TDD, CleanCode"`
+Work                       string  ´json:"Heloo Solutions"`
 }
 ```
 ## Social media :mailbox_with_no_mail:
