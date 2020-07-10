@@ -23,5 +23,3 @@ Work                       string  ´json:"Heloo Solutions"`
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/kaique-moreira-logstay/)
 
 
----
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
