@@ -3,7 +3,7 @@
 
 # Hi, I'm Kaique Moreira :cookie:
 
-Devlopment | ReactJs - ReactNative - Golang - Flutter (In Progress)
+Developer | ReactJs - ReactNative - Golang - Flutter (In Progress)
 
 Holberton School Student. :man_technologist:
 
@@ -11,13 +11,13 @@ Holberton School Student. :man_technologist:
 
  :video_game: Love | :red_heart: Programming
 
-type Informations struct {
-	Name                       string  `json:"Kaique Moreira"`
-	Age                        int     `json:"26"`
-	technologies               string  `json:"Golang, ReactJs, ReactNative"`
-	Love                       string  `json:"Games, My wife and children"`
-	studying                   string  `json:"Flutter, TDD, CleanCode"`
-}
+-type Informations struct {
+-Name                       string  `json:"Kaique Moreira"`
+-Age                        int     `json:"26"`
+-technologies               string  `json:"Golang, ReactJs, ReactNative"`
+-Love                       string  `json:"Games, My wife and children"`
+-studying                   string  `json:"Flutter, TDD, CleanCode"`
+-}
 
 ## Social media :mailbox_with_no_mail:
 
