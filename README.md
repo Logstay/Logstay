@@ -23,6 +23,5 @@ Degree        string  ´json:"Bachelor of Computer Information Systems | Uniesp 
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/kaique-moreira-logstay/)
 
-[![kaique's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Logstay)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logstay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
