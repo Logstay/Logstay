@@ -15,7 +15,6 @@ Age           int     `json:"27"`
 technologies  string  `json:"Golang, ReactJs, ReactNative"`
 Love          string  `json:"Games, My wife and children"`
 studying      string  `json:"Flutter, TDD, CleanCode"`
-Work          string  ´json:"Heloo Solutions"`
 Degree        string  ´json:"Graduate of Computer Information Systems | Uniesp"`
 }
 ```
