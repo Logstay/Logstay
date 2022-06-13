@@ -3,7 +3,7 @@
 
 # Hi, I'm Kaique Moreira:
 
-Developer | ReactJs - ReactNative - Golang - Flutter (In Progress)
+Developer | ReactJs - ReactNative - Go
 
 ## About me 
 
