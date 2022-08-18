@@ -12,7 +12,7 @@ Developer | Go
 type Informations struct {
 Name          string  `json:"Kaique Moreira"`
 Age           int     `json:"27"`
-technologies  string  `json:"Golang, ReactJs, ReactNative"`
+technologies  string  `json:"Go, ReactJs, ReactNative"`
 Love          string  `json:"Games, My wife and children"`
 studying      string  `json:"Flutter, TDD, CleanCode"`
 Degree        string  ´json:"Graduate of Computer Information Systems | Uniesp"`
