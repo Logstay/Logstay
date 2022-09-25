@@ -3,7 +3,7 @@
 
 # Hi, I'm Kaique Moreira:
 
-Developer | Go
+Developer | Go | ReactJS | React Native
 
 ## About me 
 
