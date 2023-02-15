@@ -12,9 +12,9 @@ Developer | Go | ReactJS | React Native
 type Informations struct {
 Name          string  `json:"Kaique Moreira"`
 Age           int     `json:"27"`
-technologies  string  `json:"Go, ReactJs, ReactNative"`
-Love          string  `json:"Games, My wife and children"`
-studying      string  `json:"Flutter, TDD, CleanCode"`
+technologies  string  `json:"Go, ReactJs, ReactNative, TDD, CleanCode"`
+Love          string  `json:"Games, etc..."`
+studying      string  `json:"Microservices,Computer Arquitecture, DataBase Optmization"`
 Degree        string  ´json:"Graduate of Computer Information Systems | Uniesp"`
 }
 ```
